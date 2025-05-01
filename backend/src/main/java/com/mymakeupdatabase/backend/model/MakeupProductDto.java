@@ -1,7 +1,12 @@
 package com.mymakeupdatabase.backend.model;
 
-import java.math.BigDecimal;
+import com.mymakeupdatabase.backend.constants.PriceRange;
+import com.mymakeupdatabase.backend.constants.Type;
 
-public record MakeupProductDto(String name, String type, String brand,
-                               BigDecimal price, String priceRange, String country) {
+import java.math.BigDecimal;
+import java.util.List;
+
+public record MakeupProductDto(String name, Type type, String brand,
+                               BigDecimal price, PriceRange priceRange,
+                               String country, List<ShadeDto> shades, List<RetailerDto> retailers, String mainImageUrl) {
 }

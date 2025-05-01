@@ -4,10 +4,8 @@ import com.mymakeupdatabase.backend.entities.MakeupProduct;
 import com.mymakeupdatabase.backend.model.MakeupProductDto;
 import org.mapstruct.Mapper;
 
-@Mapper
+@Mapper(uses = {ShadeMapper.class, RetailMapper.class})
 public interface MakeupProductMapper {
-
-    MakeupProduct makeupProductDtoToMakeupProduct(MakeupProductDto dto);
 
     MakeupProductDto makeupProductToMakeupProductDto(MakeupProduct makeupProduct);
     

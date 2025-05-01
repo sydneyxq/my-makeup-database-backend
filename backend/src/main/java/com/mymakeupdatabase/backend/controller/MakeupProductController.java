@@ -39,8 +39,8 @@ public class MakeupProductController {
         return makeupProductService.findByBrand(brand);
     }
 
-    @GetMapping("/pricerange")
-    public List<MakeupProductDto> findByPriceRange(@RequestParam("price-range") String priceRange) {
+    @GetMapping("/price-range")
+    public List<MakeupProductDto> findByPriceRange(@RequestParam("priceRange") String priceRange) {
         return makeupProductService.findByPriceRange(priceRange);
     }
 
