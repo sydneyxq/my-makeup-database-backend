@@ -48,10 +48,6 @@ public class CSVDataLoader implements CommandLineRunner {
         List<ShadeCSVRecord> shadeCSVRecordList = csvService.convertShadeCSV(shadeFile);
         List<RetailerCSVRecord> retailerCSVRecordList = csvService.convertRetailerCSV(retailerFile);
 
-        System.out.println("Makeup Product CSV Records: "  + makeupProductCSVRecordList);
-        System.out.println("Shade CSV Records " + shadeCSVRecordList);
-        System.out.println("Retailer CSV Records" + retailerCSVRecordList);
-
         makeupProductCSVRecordList.forEach(makeupProductCSVRecord -> {
             Integer code = makeupProductCSVRecord.getCode();
             MakeupProduct makeupProduct = new MakeupProduct();
@@ -79,7 +75,7 @@ public class CSVDataLoader implements CommandLineRunner {
             PriceRange priceRange = switch (makeupProductCSVRecord.getPriceRange()) {
                 case "Drugstore" -> PriceRange.DRUGSTORE;
                 case "Highend" -> PriceRange.HIGHEND;
-                default -> throw new IllegalStateException("Unexpected value: " + makeupProductCSVRecord.getPriceRange());
+                default -> null;
             };
 
             makeupProduct.setCode(makeupProductCSVRecord.getCode());

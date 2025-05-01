@@ -1,3 +1,78 @@
 productCode,name,hexcode,imageUrl
 1,01 Vintage Apple,#bf4145,https://res.cloudinary.com/dk85s3hmq/image/upload/v1746030314/51qCM5d_7GL._AC_UF1000_1000_QL80__au4miq.jpg
+1,02 Summer Apricot,#eb6d54,https://res.cloudinary.com/dk85s3hmq/image/upload/v1746100791/61THKXci_kL_jqys0i.jpg
 1,03 Blushed Peach,#ff668c,https://www.wcosmetics.com.au/cdn/shop/files/89b2c74f-b8d1-41b9-b4d4-0106e62e50e0.jpg?v=1688539914
+2,02 Lingerie,#edd4c2,https://res.cloudinary.com/dk85s3hmq/image/upload/v1746101084/1_877ce463-8ed9-4870-84b1-fb95ad5d87b4_1000x_s9izoe.webp
+2,03 Linen,#e8c9a7,https://res.cloudinary.com/dk85s3hmq/image/upload/v1746101152/2_823343d9-b789-4e32-b96c-a1231371d8b3_1000x_a5altt.webp
+2,04 Ginger,#e6be97,https://clubclio.shop/cdn/shop/files/3_ee1e311f-5cea-4016-91a0-8e3669b4b2c9_1000x.jpg?v=1697290340
+3,02 Lingerie,#edd4c2,https://clubclio.shop/cdn/shop/products/1333c4a3c54ceb722f5ebf04e9775a7b_1000x.jpg?v=1694597666
+3,03 Linen,#e8c9a7,https://clubclio.shop/cdn/shop/products/076c92d42249feccb90d6e1e4f03b1f7_1000x.jpg?v=1694597666
+3,04 Ginger,#e6be97,https://clubclio.shop/cdn/shop/products/826b569de53aca779a402c35c6263ad3_1000x.jpg?v=1694597666
+4,19 Giant Apple,#de5f66,https://medias.watsons.com.sg/publishing/WTCSG-53254-side-zoom.jpg?version=1722899396
+4,20 Fresh Apricot,#f27f6f,https://d2c3d01lcpw2ui.cloudfront.net/gl/data/item/1711609347/20aprocot.jpg?f=&w=500&h=500
+4,21 Sugar Strawberry,#d94559,https://medias.watsons.com.sg/publishing/WTCSG-53256-side-zoom.jpg?version=1722899409
+4,22 Red Flesh Plum,#cc4156,https://d2c3d01lcpw2ui.cloudfront.net/gl/data/item/1711609347/22red.jpg?f=
+5,01 Coral Studio,#e8af92,https://luxiface.com/cdn/shop/files/clio-pro-eye-palette-air-7_2g-no_1-coral-studio-3.jpg?v=1699935112
+5,02 Rose Connect,#e6a09a,https://www.koinshop.com/wp-content/uploads/2023/12/CLIO-Pro-Eye-Palette-Air-Rose-Connect-002-7.2g.jpg
+5,03 Mute Library,#c29c99,https://www.skinsonata.com/cdn/shop/files/CLIO_ProEyePaletteAir-_03MuteLibrary-skin-sonata.jpg?v=1703236355
+6,1.5 Fair,#f7e2d5,https://clubclio.shop/cdn/shop/products/1.5fair_e16ae3be-44f7-4f9e-8d39-1ac5a12cf0c7_1000x.jpg?v=1675410460
+6,02 Lingerie,#f2dcce,https://clubclio.shop/cdn/shop/products/2lingerie_c68185ec-9e3c-46c3-bc57-9b4fb8bc7a81_1000x.jpg?v=1675410460
+6,2.5 Ivory,#ebd6c0,https://clubclio.shop/cdn/shop/products/2.5ivory_71c170a8-132b-4d72-8b39-8f4604188231_1000x.jpg?v=1675410460
+6,03 Linen,#f2d9bb,https://clubclio.shop/cdn/shop/products/3linen_1600ddd6-2917-47d3-b39c-1f2f8eeb6e16_1000x.jpg?v=1675410460
+6,3.5 Vanilla,#fad8b9,https://clubclio.shop/cdn/shop/products/3.5vanilla_d92dce9e-4a19-4f62-a48e-c6309582fb2a_1000x.jpg?v=1675410460
+6,04 Ginger,#edc29a,https://clubclio.shop/cdn/shop/products/4ginger_70d672e1-694d-4aa8-991f-fd9f9869cdb2_1000x.jpg?v=1675410460
+7,00 Slim Fixing,#000000,https://clubclio.shop/cdn/shop/products/0slimfixing_1000x.jpg?v=1675651706
+7,01 Long Curling,#000000,https://clubclio.shop/cdn/shop/products/1longcurling_1000x.jpg?v=1675651706
+7,02 Volume Curling,#000000,https://clubclio.shop/cdn/shop/products/2volumecurling_1000x.jpg?v=1675651706
+8,01 Black,#000000,https://clubclio.shop/cdn/shop/products/1black_1000x.jpg?v=1675042508
+8,02 Brown,#4d2a16,https://clubclio.shop/cdn/shop/products/2brown_df1358d8-0c9c-4ddb-8ea9-b92a074587c3_1000x.jpg?v=1675042508
+8,03 Cacao Brown,#875e4c,https://clubclio.shop/cdn/shop/products/3cacaobrown_1000x.jpg?v=1675042508
+9,01 Black,#000000,https://clubclio.shop/cdn/shop/products/1black_edd900b2-17c1-4d75-af5d-35fa22e1b0ed_1000x.jpg?v=1676526842
+9,02 Brown,#4d2a16,https://clubclio.shop/cdn/shop/products/2brown_16273a19-a923-4025-8dbd-f5521e3ad79a_1000x.jpg?v=1676526842
+9,03 Cacao Brown,#6e4830,https://clubclio.shop/cdn/shop/products/3cacaobrown_ec5e09ce-b8a5-4d1a-bc2a-746682006ddd_1000x.jpg?v=1676526842
+10,02 Coral Influencer,#f27872,https://clubclio.shop/cdn/shop/products/2coralinfluencer_1000x.jpg?v=1695713855
+10,03 Rose In Mind,#f27272,https://clubclio.shop/cdn/shop/products/3roseinmind_1000x.jpg?v=1695713855
+10,05 Cherry So What,#c44365,https://clubclio.shop/cdn/shop/products/5cherrysowhat_1000x.jpg?v=1695713855
+11,01 Good Brick,#bf3934,https://clubclio.shop/cdn/shop/products/1goodbrick_1000x.jpg?v=1675134949
+11,18 Star Plum Pink,#bf6373,https://clubclio.shop/cdn/shop/products/18starplumpink_1000x.jpg?v=1675134949
+11,30 Classic Nude,#ad6555,https://clubclio.shop/cdn/shop/products/30classicnude_1000x.jpg?v=1675134949
+12,02 Universal Coral,#de6d72,https://clubclio.shop/cdn/shop/products/01-02_1000x.jpg?v=1698396746
+12,03 Emotional Pink,#bf3054,https://clubclio.shop/cdn/shop/products/01-03_1000x.jpg?v=1698396746
+12,04 All Right Peach,#f04659,https://clubclio.shop/cdn/shop/products/01-04_47dd2949-59b6-4565-86ab-cbc377581612_1000x.jpg?v=1698396746
+12,05 Red Update,#bf4152,https://clubclio.shop/cdn/shop/products/01-05_1000x.jpg?v=1698396746
+12,06 Softly Brown,#ad4b4e,https://clubclio.shop/cdn/shop/products/01-06_1000x.jpg?v=1698396746
+13,01 Warm Blending,#fcd4b8,https://www.oomomostore.com/cdn/shop/products/8809581532144-1_600x.jpg?v=1734561749
+13,02 Cool Blending,#fad4df,https://www.oomomostore.com/cdn/shop/products/8809581532137-1_600x.jpg?v=1734561750
+13,03 Peach Blending,#ffc6b0,https://www.oomomostore.com/cdn/shop/products/8809581532564-1_600x.jpg?v=1734561750
+13,04 Beige Knit,#e6a391,https://www.oomomostore.com/cdn/shop/products/8809581532786-1_600x.jpg?v=1734561750
+13,05 Violet Knit,#f0b9cc,https://www.oomomostore.com/cdn/shop/products/8809581532762-1_600x.jpg?v=1734561750
+14,01 Sugar Brownie,#d19e79,https://www.oomomostore.com/cdn/shop/products/8809581530638-1_600x.jpg?v=1734561756
+14,02 Rose Petal,#db987d,https://www.oomomostore.com/cdn/shop/products/8809581530775-1_600x.jpg?v=1734561757
+14,03 Nude Potion,#e8ba9b,https://www.oomomostore.com/cdn/shop/products/8809581530966-1_600x.jpg?v=1734561757
+14,04 Pastel Dream,#de9785,https://www.oomomostore.com/cdn/shop/products/8809581531000-1_600x.jpg?v=1734561757
+14,05 Sunset Muhly,#d99179,https://www.oomomostore.com/cdn/shop/products/8809581531109-1_600x.jpg?v=1734561757
+14,10 Autumn Breeze,#c79c8b,https://www.oomomostore.com/cdn/shop/products/8809581531734-1_600x.jpg?v=1734561758
+14,13 Cool Blending,#e6c3c3,https://www.oomomostore.com/cdn/shop/products/8809581532120-1_600x.jpg?v=1734561759
+14,15 Beige Knit,#e3b28f,https://www.oomomostore.com/cdn/shop/products/8809581532779-1_600x.jpg?v=1734561759
+14,16 Violet Knit,#bd8780,https://www.oomomostore.com/cdn/shop/products/8809581532755-1_600x.jpg?v=1734561760
+14,19 Candy Berry,#d6b9b8,https://www.oomomostore.com/cdn/shop/products/8809581533585-1_600x.jpg?v=1734561760
+14,20 Blueberry Sorbet,#d9adbc,https://www.oomomostore.com/cdn/shop/products/8809581533462-1_600x.jpg?v=1734561761
+14,28 Brown Bear,#deaa8e,https://www.oomomostore.com/cdn/shop/files/8809581538528-1_600x.jpg?v=1734561763
+15,01 Mood Mango,#ff9b85,https://www.oomomostore.com/cdn/shop/products/8809581532588-1_600x.jpg?v=1734561742
+15,02 Melon Sherbet,#ff7869,https://www.oomomostore.com/cdn/shop/products/8809581532595-1_600x.jpg?v=1734561742
+15,03 Pink Guava,#ff96b8,https://www.oomomostore.com/cdn/shop/products/8809581532601-1_600x.jpg?v=1734561742
+16,01 Cover,#edcaa4,https://www.oomomostore.com/cdn/shop/products/8809581533349-1_600x.jpg?v=1734561735
+16,02 Medium Cover,#d4a887,https://www.oomomostore.com/cdn/shop/products/8809581534407-1_600x.jpg?v=1734561736
+17,01 Warm Tone,#c4aa91,https://sukoshimart.com/cdn/shop/files/colorgramRe-FormingContourStick-7_1024x1024.png?v=1711482556
+17,02 Cool Tone,#997970,https://sukoshimart.com/cdn/shop/files/colorgramRe-FormingContourStick-8_1024x1024.png?v=1711482556
+17,03 Neutral,#b59a8a,https://sukoshimart.com/cdn/shop/files/colorgramRe-FormingContourStick-9_1024x1024.png?v=1711482556
+18,00 Pearl Gloss,#f5d3e3,https://image.globaloliveyoungshop.com/item/1646/f887356a-9cda-4c89-a825-df6482928285.jpg?RS=1500x1500&AR=0&SF=webp&QT=80
+18,01 Flashing Apricot,#ff867d,https://kiokii.com/cdn/shop/files/fruity-glass-tintcolorgramkiokii-and-876487.webp?v=1713984988&width=1000
+18,02 Dewy Grapefruit,#f2525a,https://image.globaloliveyoungshop.com/item/1608/511a3e16-ec57-47e9-8651-d1ce6803b483.jpg?RS=1500x1500&AR=0&SF=webp&QT=80
+19,01 Peach & Coral,#f2a9a2,https://kiokii.com/cdn/shop/files/pin-point-eyeshadow-palettecolorgramkiokii-and-107634.jpg?v=1714419375&width=1300
+19,02 Pink & Mauve,#d9a0a3,https://kiokii.com/cdn/shop/files/pin-point-eyeshadow-palettecolorgramkiokii-and-508860.jpg?v=1714419375
+19,03 Pink & Lavender,#f0adcd,https://yepocosmetics.com/cdn/shop/files/D_anm_i-3078_1800x1800_391cccaa-6f82-4445-b803-13ad95bc7222.jpg?v=1706045807
+19,04 Bright & Cool,#f2b8bc,https://kiokii.com/cdn/shop/files/pin-point-eyeshadow-palettecolorgramkiokii-and-151973.jpg?v=1714419375
+20,01 Dark Brown,#6b5546,https://oceanbuy.ca/cdn/shop/files/colorgram-colorgram-easy-auto-brow-pencil-018g-4-color-to-choose-601169.webp?v=1722628829&width=1080
+20,02 Wood Brown,#75544b,https://oceanbuy.ca/cdn/shop/files/colorgram-colorgram-easy-auto-brow-pencil-018g-4-color-to-choose-492998.webp?v=1722628829&width=1080
+20,03 Brown,#ab8e76,https://oceanbuy.ca/cdn/shop/files/colorgram-colorgram-easy-auto-brow-pencil-018g-4-color-to-choose-664570.webp?v=1722628829&width=1080
