@@ -5,7 +5,7 @@ code,name,type,brand,price,priceRange,country,mainImageUrl
 4,Chiffon Blur Tint,Lip Tint,CLIO,29.14,,South Korea,https://image.globaloliveyoungshop.com/prdtImg/1573/3cea5f43-b7fd-40d8-a3f6-34acb7575032.jpg?RS=1500x1500&AR=0&SF=webp&QT=80
 5,Pro Eye Palette Air,Eyeshadow,CLIO,55.50,,South Korea,https://i.ebayimg.com/images/g/tdkAAOSwr5RllMzp/s-l1200.jpg
 6,Kill Cover The New Foundwear Cushion Set,Foundation,CLIO,55.50,,South Korea,https://cdn.shopify.com/s/files/1/0668/0022/2505/products/1683877255375_ecd6bd44eb4d44a0817fef4ad239b66c.jpg?v=1685417867
-7,Kill Lash Superproof Mascara,Mascara,CLIO,29.14,,South Korea,https://ca.lewkin.com/cdn/shop/files/KILL-LASH-SUPERPROOF-MASCARA_2.jpg?v=1739163304
+7,Kill Lash Superproof Mascara,Mascara,CLIO,29.14,,South Korea,https://res.cloudinary.com/dk85s3hmq/image/upload/v1746132270/61ZU6faMaGL._AC_UF1000_1000_QL80__sgvkm5.jpg
 8,Sharp So Simple Pencil Liner,Eyeliner,CLIO,16.65,,South Korea,https://oceanbuy.ca/cdn/shop/files/clio-clio-sharp-so-simple-waterproof-pencil-liner-3-color-to-choose-oceanbuy-beauty-201375.jpg?v=1741544742
 9,Superproof Pen Liner,Eyeliner,CLIO,24.97,,South Korea,https://m.media-amazon.com/images/I/61cNXBj9VgL.jpg
 10,Ink Mood Glowy Tint,Lip Tint,peripera,16.65,,South Korea,https://kpoptown.ca/cdn/shop/products/126796.jpg?v=1696547304
@@ -19,3 +19,24 @@ code,name,type,brand,price,priceRange,country,mainImageUrl
 18,Fruity Glass Tint,Lip Tint,colorgram,14.25,,South Korea,https://image.globaloliveyoungshop.com/prdtImg/1198/8c830da8-a167-46bd-b204-59645e63e470.jpg?RS=1500x1500&AR=0&SF=webp&QT=80
 19,Pin Point Eyeshadow,Eyeshadow,colorgram,21.72,,South Korea,https://www.moona.store/cdn/shop/files/Colorgram-Pint_Point_Eyeshadow_Palette-03_Pink_Lavender_Love-Eye_Makeup-Moona-Store-NZ-4_1080x.jpg?v=1711414711
 20,Easy Auto Brow Pencil,Eyebrow,colorgram,8.21,,South Korea,https://kr.ktown4u.com/goods_files/SH0164/goods_images/000100/GD00099542.default.8.jpg
+21,Fixing Tint,Lip Tint,ETUDE,14.12,,South Korea,https://www.skincupid.ca/cdn/shop/files/ETUDEHOUSEFixingTint_11Colours_4g_16.png?v=1728905862&width=800
+22,Drawing Eye Brow,Eyebrow,ETUDE,8.99,,South Korea,https://www.etude.com/int/en/media/catalog/product/0/1/0146-drawing_eyebrow-1.jpg?width=265&height=265&store=default&image-type=image
+23,Curl Fix Mascara,Mascara,ETUDE,19.38,,South Korea,https://bravekoko.com/cdn/shop/files/etude-etude-curl-fix-mascara-8g-55580540207442.jpg?v=1729651512
+24,Lip&Cheek Blurry Pudding Pot,Lip Tint,fwee,26.37,,South Korea,https://down-id.img.susercontent.com/file/id-11134207-7r98w-lueqiq3ykh9k54
+25,Luv Beam Cheek Balm,Blush,lilybyred,15.23,,South Korea,https://www.skin2seoul.co.uk/cdn/shop/files/lilybyredblush-min_1000x.jpg?v=1684058314
+26,Smiley Lip Blending Stick,Lip Liner,lilybyred,12.10,,South Korea,https://oceanbuy.ca/cdn/shop/files/lilybyred-lilybyred-smiley-lip-blending-stick-08g-02-laugh-with-me-119787.jpg?v=1713594764&width=720
+27,Luv Beam Glow Veil,Highlighter,lilybyred,17.24,,South Korea,https://i.ebayimg.com/images/g/1~QAAOSwGEJlQ7W5/s-l400.jpg
+28,Too Cool For School Artclass,Contour,Rodin Shading Master,22.75,,South Korea,https://d2j6dbq0eux0bg.cloudfront.net/images/65228611/4116049501.jpg
+29,Moist Ampoule Blusher,Blush,House of Hur,20.78,,South Korea,https://image.globaloliveyoungshop.com/prdtImg/1965/ef9796b9-544b-4b3c-bfba-4105eeb8d352.jpg?RS=1500x1500&AR=0&SF=webp&QT=80
+30,Mellow Blurring Lip Pencil,Lip Liner,HOLIKA HOLIKA,27.65,,South Korea,https://holiholic.com/cdn/shop/files/HolikaHolika_MellowBlurringLipPencil-Holiholic_2.jpg?v=1692884136
+31,Jelly Dough Blusher,Blush,HOLIKA HOLIKA,15.24,,South Korea,https://www.krason.ru/i/Product/62631
+32,Fruity Glam Tint,Lip Tint,Laka,19.02,,South Korea,https://www.dodoskin.com/cdn/shop/files/s-l1600_4_524b3645-d981-4831-975c-d98e335c8857_2048x.jpg?v=1718328384
+33,Magic Cushion Cover Lasting,Foundation,MISSHA,17.99,,South Korea,https://cdn11.bigcommerce.com/s-noog3x4u9a/images/stencil/1280x1280/products/8445/21565/MISSHA_magic_cushion_cover_lasting_3_700x__14093.1671141593.jpg?c=2
+34,M Perfect Cover BB Cream,BB Cream,MISSHA,18.99,,South Korea,https://misshaus.com/cdn/shop/files/bbbminii_f5776412-15e5-4141-975e-bf79d42aa779.jpg?v=1710773194
+35,Nu Zero Cushion,Foundation,rom&nd,24.93,,South Korea,https://www.tntsupermarket.com/media/catalog/product/5/2/525041_2_2.jpg?auto=webp&format=pjpg&width=556&height=556&fit=cover
+36,Better Than Cheek,Blush,rom&nd,13.85,,South Korea,https://www.kmisobeauty.co.uk/cdn/shop/files/rom_ndbetterthancheekkmisouk_f7b2cc71-5e76-456b-8687-a23b8f2f1895.jpg?v=1718297519&width=1946
+37,Juicy Lasting Tint,Lip Tint,rom&nd,19.38,,South Korea,https://cdn.shopify.com/s/files/1/0668/0022/2505/products/1655431138161_f237508af50a4ddba62f377b198f0530.jpg?v=1711293612
+38,Glasting Melting Balm,Lip Tint,rom&nd,13.85,,South Korea,https://www.romandglobal.com/cdn/shop/products/343e20adf7ec8823aaa16e424322694e_2048x.png?v=1672987760
+39,Blur Fudge Tint,Lip Tint,rom&nd,13.85,,South Korea,https://www.yeppo.fi/cdn/shop/files/romand-blur-fudge-tint-2.jpg?v=1707244497&width=480
+40,Han All Fix Mascara,Mascara,rom&nd,22.16,,South Korea,https://thekshop.ca/cdn/shop/products/romandhanallfixmascara.jpg?v=1651593051
+41,Mood Recipe Face Blush,Blush,3CE,25.99,,South Korea,https://image.globaloliveyoungshop.com/prdtImg/1483/8c6818be-606c-44cc-b6ca-50c25526a8e5.jpg?RS=1500x1500&AR=0&SF=webp&QT=80
